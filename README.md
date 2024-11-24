@@ -46,7 +46,7 @@ Feel free to reach out—I'm always excited to discuss tech, share ideas, or col
 ## 📊 GitHub Stats
 
 ![Jules's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samshiba&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samshibae&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samshiba&layout=compact&theme=radical)
 
 ---
 
