@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 ---
 
 ## 🔧 Technologies & Tools
-- **Languages:** C, Python, HTML/CSS/JS, Bash
-- **Frameworks:** Docker, Flask
-- **Tools:** Git, VS Code, qBittorrentVPN, Sonarr
-- **Other:** Static and dynamic routing, SNAT, GRUB bootloaders, Linux system administration
+- **Languages:** C, C++, Python, Java, Js
+- **IT Infrastructure:** GNU/Linux, Server management, network architecture
+- **Tools:** Git, VS Community and Code, Vim, JetBrain Suite
+- **Database Management:** PostgreSQL
 
 ---
 
@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and tech enthu
 - **Dynamic Web Game:** Building a paper dolls system for character customization in HTML/CSS/JS.
 - **System Exercises:** Implementing C-based data structures, algorithms, and utilities like hash maps, quicksort, and doubly linked lists.
 - **Networking Simulations:** Configuring networks with GNS3, including static routing and SNAT.
+- **Raytracer Project:** Creating a 3D ray tracer algorithm in C++ for photo-realistic rendering.
 
 ---
 
@@ -37,7 +38,7 @@ I'm open to collaborating on:
 
 ## 💬 Let's Connect!
 - **GitHub:** [My GitHub Profile](https://github.com/Samshiba)
-- **Email:** [Your Email Address](jules.genin@epita.fr)
+- **Email:** [My Email Address](jules.genin@epita.fr)
 
 Feel free to reach out—I'm always excited to discuss tech, share ideas, or collaborate!
 
