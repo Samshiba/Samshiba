@@ -126,16 +126,3 @@ Real-time multiplayer Trivial Pursuit clone. Built the game lobby and live score
 ## ☁️ Personal Infrastructure & HomeLab
 
 Passionate about self-hosting, I deploy and maintain my personal infrastructure stack using **Docker, Portainer, and Nginx Proxy Manager**. I host services like Nextcloud, Pi-hole, and n8n, secured behind **Authentik** (IAM) and **Cloudflare Tunnels**.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samshiba&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samshiba&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samshiba&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
